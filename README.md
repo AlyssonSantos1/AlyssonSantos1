@@ -1,9 +1,9 @@
 ### Olá! eu sou Alysson Santos 👋🏿
-<div>
+
 <a href="https://github.com/AlyssonSantos1">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AlyssonSantos1&show_icons=true&theme=synthwave")>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonSantos1&layout=compact&langs_count=16&theme=dracula")>  
-</div>
+<img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyssonSantos1&show_icons=true&theme=synthwave")>
+<img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyssonSantos1&layout=compact&langs_count=16&theme=dracula")>  
+
   
 - 🔭 Eu trabalho com backend php ou full-stack
 - 🌱 Estudando PHP & Laravel
