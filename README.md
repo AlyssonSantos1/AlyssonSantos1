@@ -13,8 +13,7 @@ I am Alysson Santos 👋🏿
  <div style="display: inline_block"><br>  
   <img align="center" alt="php" height="50" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>  
-  <img align="center" alt="php" height="50" width="40" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>      
+      
 </div>
 
 
