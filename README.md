@@ -1,18 +1,19 @@
-### Olá! eu sou Alysson Santos 👋🏿
+### Hello!
+I am Alysson Santos 👋🏿
 
 <a href="https://github.com/AlyssonSantos1">
 <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlyssonSantos1&show_icons=true&theme=synthwave")>
 <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlyssonSantos1&layout=compact&langs_count=16&theme=dracula")>  
 
   
-- 🔭 Eu trabalho com backend php ou full-stack
-- 🌱 Estudando PHP & Laravel
-- 😄 Pronouns: ele/dele 
+- 🔭 I am a PHP Backend or full stack web developer
+- 🌱 Studying PHP and laravel
+- 😄 Pronouns: He/Him 
   
  <div style="display: inline_block"><br>  
-  <img align="center" alt="Alysson-php" height="50" width="40" 
+  <img align="center" alt="php" height="50" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>  
-  <img align="center" alt="Alysson-php" height="50" width="40" 
+  <img align="center" alt="php" height="50" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>      
 </div>
 
